@@ -262,20 +262,6 @@ The ESP32-C3 adapter layer implements **three interfaces** and supplies **two va
 ### Integration Seams
 
 Look for `TODO(esp32-c3)` markers in headers for exact seams and wiring points.
-
-## Contributing
-
-This project is designed for embedded IoT and single-device deployment. Contributions welcome:
-
-- Test coverage improvements
-- Battery curve refinements
-- Documentation enhancements
-- Mock adapter examples
-
-## License
-
-MIT (open for modification and reuse)
-
 ## References
 
 - **State machine patterns**: Temporal edge-driven design for reactive embedded systems
