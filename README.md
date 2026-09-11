@@ -3,7 +3,6 @@
 > Platform-independent core logic for a battery-powered IoT rat-trap node
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-v0.8-orange)
 
 ## Overview
