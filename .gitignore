@@ -1,0 +1,40 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.code-workspace
+
+# CMake
+CMakeUserPresets.json
+CMakeFiles/
+
+# Binaries
+*.o
+*.a
+*.lib
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test results
+Testing/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Dependencies
+vcpkg_installed/
